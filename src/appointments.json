@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Abbas",
+    "status": "Online",
+    "dateTime": "Today at 3:00 pm",
+    "remaining": "48 Minutes ago",
+    "detail": "I have the confidence and knowledge to fight against the deadliest disease. Only the healing art enables one to make a name for himself and at the same time give benefit to others"
+  },
+  {
+    "id": "2",
+    "name": "Dr. Nouman",
+    "status": "Online",
+    "dateTime": "Today at 5:00 pm",
+    "remaining": "2 Hours ago",
+    "detail": "I have the confidence and knowledge to fight against the deadliest disease. Only the healing art enables one to make a name for himself and at the same time give benefit to others"
+  }
+]
